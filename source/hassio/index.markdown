@@ -37,7 +37,7 @@ Hass.io users can update Home Assistant via the 'Hass.io' page in the UI. Howeve
 Hass.io dashboard
 </p>
 
-If you would prefer not to be notified of the general updates in the UI you can disable the [updater](components/updater/) component in your configuration.
+If you would prefer not to be notified of the general updates in the UI you can disable the [updater] component in your configuration.
 
 [Google Assistant]: /addons/google_assistant/
 [Snips.ai]: /addons/snips/
@@ -50,3 +50,4 @@ If you would prefer not to be notified of the general updates in the UI you can 
 [ResinOS]: https://resinos.io/
 [Docker]: https://www.docker.com/
 [install]: /hassio/installation/
+[updater]: /components/updater/
